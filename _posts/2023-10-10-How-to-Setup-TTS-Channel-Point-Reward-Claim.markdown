@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How to setup Text-to-speech on Twitch as a Channel Points reward
 permalink: /posts/how-to-setup-tts/
 ---
