@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Casual Blog
+email: casualnerdingtv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  I am Gerry. Also known as CasualNerdingTV from Twitch. 
+  I am an enjoyer of the digital world, software developer in the making and big introvert 
+  that likes to feel useful and to know things.
+baseurl: "/blog/" 
+url: "httpa://spamemotes.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitch_username: CasualNerdingTV
+github_username: Hiratsuna
 
 # Build settings
 theme: minima
