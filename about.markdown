@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## A 25 year old nerd obsessed with the internet and it's opportunities. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Follow me on other socials: 
+- **Twitch:** 
+  https://www.twitch.tv/casualnerdingtv/
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- **EN YouTube:** 
+  https://www.youtube.com/@casualnerding/
 
+- **Discord Server:**
+  https://discord.gg/Np3tFE5UaQ
 
-[jekyll-organization]: https://github.com/jekyll
+- **TikTok:**
+  https://www.tiktok.com/@whynotcurious
+
+- **GitHub:**
+  https://github.com/Hiratsuna
