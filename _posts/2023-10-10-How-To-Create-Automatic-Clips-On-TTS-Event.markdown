@@ -47,9 +47,9 @@ return true;
 }
 }
 ```  
-<aside>
-    💡 If you have setup your TTS reward to run after a delay of 10 seconds for example, you would want to add 10000ms into the method and change the **Thread.Sleep(30000);** to **Thread.Sleep(40000);**
-</aside>
+> 💡 If you have setup your TTS reward to run after a delay of 10 seconds for example,
+>  you would want to add 10000ms into the method and change the
+>  **Thread.Sleep(30000);** to **Thread.Sleep(40000);**
     
 12. After copying the above code snippet, go to Sub-Actions section and right-click white space. 
 > 13. **Select Core > C# > Execute C# Code** 
