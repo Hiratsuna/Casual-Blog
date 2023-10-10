@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am an enjoyer of the digital world, software developer in the making and big introvert 
   that likes to feel useful and to know things.
 baseurl: "/blog/" 
-url: "httpa://spamemotes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://spamemotes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitch_username: CasualNerdingTV
 github_username: Hiratsuna
 
