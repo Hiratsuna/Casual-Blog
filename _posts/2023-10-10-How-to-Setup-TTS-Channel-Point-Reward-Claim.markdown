@@ -1,3 +1,9 @@
+---
+layout: page
+title: How to setup Text-to-speech on Twitch as a Channel Points reward
+permalink: /posts/how-to-setup-tts/
+---
+
 # How to setup Text-to-speech on Twitch as a Channel Points reward
 
 1. ## **Channel Dashboard**
