@@ -1,10 +1,10 @@
----
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV---
 layout: page
 title: How-To-Create-Automatic-Clips-On-TTS-Event
 permalink: /posts/how-to-setup-auto-clips-tts/
 ---
 
-## [How to setup Text-to-speech on Twitch as a Channel Points reward](./2023-10-10-How-to-Setup-TTS-Channel-Points-Claim.markdown)
+### [How to setup Text-to-speech on Twitch as a Channel Points reward](./posts/how-to-setup-tts/)
 
 1. Download [Streamer.bot](https://streamer.bot/api/releases/streamer.bot/latest/download)
 > Link it to your Twitch
