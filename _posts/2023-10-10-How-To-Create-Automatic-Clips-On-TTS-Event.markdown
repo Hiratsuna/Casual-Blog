@@ -1,4 +1,4 @@
-VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV---
+---
 layout: page
 title: How-To-Create-Automatic-Clips-On-TTS-Event
 permalink: /posts/how-to-setup-auto-clips-tts/
