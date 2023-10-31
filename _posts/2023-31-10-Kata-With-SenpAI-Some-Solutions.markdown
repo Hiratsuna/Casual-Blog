@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to setup Text-to-speech on Twitch as a Channel Points reward
+permalink: /posts/Kata-Solutions-With-SenpAI/
+---
+
 # Kata with senpAI 
 
 ```tsx
